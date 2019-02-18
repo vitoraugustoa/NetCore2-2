@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Vitor\\Documents\\Vitor\\Cursos Web\\Curso ASP.Net Core 2.0 Macorrati\\ProjetosDoCurso\\AspnCore22Empty_NetCli\\AspnCore22Empty_NetCli.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}

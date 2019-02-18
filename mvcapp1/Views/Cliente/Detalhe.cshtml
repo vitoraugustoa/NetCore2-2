@@ -1,0 +1,35 @@
+@{
+    @model mvcapp1.ViewModels.ClientePedidoViewModel
+}
+
+
+<h1>Detalhes do Cliente</h1>
+
+
+<div>
+    <p><strong>ID do Cliente </strong> @Model.Cliente.ClienteId</p>
+    <p><strong>Nome do Cliente </strong> @Model.Cliente.Nome</p>
+    <p><strong>Email do Cliente </strong> @Model.Cliente.Email</p>
+</div>
+
+<h2>Pedidos de Clientes</h2>
+
+@if (Model.Pedidos.Count == 0){
+    <p>Nenhum pedido de cliente!</p>
+}else{
+    <div>
+    <ul>
+    @{
+        foreach (var pedido in Model.Pedidos)
+        {
+            <li><strong>ID do Pedido </strong> @pedido.PedidoId</li>
+            <li><strong>ID do Pedido </strong> @pedido.Nome</li>
+        }
+    }
+
+    </ul>
+
+</div>
+}
+
+

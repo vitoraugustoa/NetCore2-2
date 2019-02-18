@@ -1,0 +1,16 @@
+@{
+    var endereco = ViewData["Endereco"] as Endereco;
+}
+
+
+<h1>View Index do Controller Teste</h1>
+
+<p>@ViewData["Saudacao"] Mundo!!</p>
+<p>@ViewData["DataInicio"]</p>
+
+<h4>@ViewBag.Tec</h4>
+
+<p>@endereco.Nome</p>
+<p>@endereco.Rua</p>
+<p>@endereco.Cidade</p>
+<p>@endereco.Estado</p>

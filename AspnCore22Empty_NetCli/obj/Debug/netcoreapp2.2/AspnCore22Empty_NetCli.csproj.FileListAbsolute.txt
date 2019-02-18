@@ -1,0 +1,14 @@
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\bin\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.deps.json
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\bin\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.runtimeconfig.json
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\bin\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.runtimeconfig.dev.json
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\bin\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.dll
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\bin\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.pdb
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\obj\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\obj\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\obj\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.RazorAssemblyInfo.cache
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\obj\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.RazorAssemblyInfo.cs
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\obj\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.AssemblyInfoInputs.cache
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\obj\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.AssemblyInfo.cs
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\obj\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.RazorTargetAssemblyInfo.cache
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\obj\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.dll
+C:\Users\Vitor\Documents\Vitor\Cursos Web\Curso ASP.Net Core 2.0 Macorrati\ProjetosDoCurso\AspnCore22Empty_NetCli\obj\Debug\netcoreapp2.2\AspnCore22Empty_NetCli.pdb

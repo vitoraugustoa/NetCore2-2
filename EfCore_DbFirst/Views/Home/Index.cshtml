@@ -1,0 +1,13 @@
+﻿@model IEnumerable<EfCore_DbFirst.Models.Alunos>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @foreach (var item in Model)
+    {
+        <h1>@item.Nome</h1>
+    }
+    <h1 class="display-4"></h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

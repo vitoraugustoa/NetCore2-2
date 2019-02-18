@@ -1,0 +1,49 @@
+ @model Cliente;
+
+ @{
+       ViewData["Title"] = "Exibir Dados";
+ }
+
+<section class="container">
+
+    <div class="row">
+        <div class="col-8">
+            <h4>HTML 5</h4>
+            <div class="card" style="width: 18rem;">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><b>Id: </b>@Model.Id </li>
+                    <li class="list-group-item"><b>Nome: </b> @Model.Nome </li>
+                    <li class="list-group-item"><b>Email: </b> @Model.Email </li>
+                </ul>
+            </div>
+            <a href="/Cliente/Index" class="btn btn-link">Retornar</a>
+        </div>
+
+
+        <div class="col-8">
+            <h4>HTML HELPERS TIPADO</h4>
+            <div class="card" style="width: 18rem;">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><b>@Html.LabelFor(model => model.Id): </b>@Html.DisplayFor(model => model.Id)</li>
+                    <li class="list-group-item"><b>@Html.LabelFor(model => model.Nome): </b>@Html.DisplayFor(model => model.Nome)</li>
+                    <li class="list-group-item"><b>@Html.LabelFor(model => model.Email): </b>@Html.EditorFor(model => model.Email)</li>
+                </ul>
+            </div>
+            @Html.ActionLink("Retonar","Index","Cliente")
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-8">
+            <div class="card" style="width: 18re</div>m;">
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item"><b>@Html.LabelFor(model => model.Id): </b><input asp-for="Id"> </li>
+
+                    <li class="list-group-item"><b>@Html.LabelFor(model => model.Nome): </b><input asp-for="Nome"> </li>
+
+                    <li class="list-group-item"><b>@Html.LabelFor(model => model.Email): </b><input asp-for="Email"> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

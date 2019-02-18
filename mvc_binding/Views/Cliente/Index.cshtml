@@ -1,0 +1,147 @@
+@{ 
+    ViewData["Title"] = "Index";
+
+ }
+
+@Html.Partial("_MenuView")
+
+
+@Html.Partial("_AlertaView")
+
+
+<div class="container">
+    @{ if(ViewBag.Erro != null){
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.Erro
+    </div>
+    } }
+
+    <div class="row">
+        <div class="col-6">
+            <h4> HTML 5 </h4>
+            <form action="/Cliente/Index" method="POST">
+                <div class="form-group">
+                    <label>Id</label>
+                    <input type="text" class="form-control" name="Id">
+                </div>
+                <div class="form-group">
+                    <label>Nome</label>
+                    <input type="text" class="form-control" name="nome">
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input type="email" class="form-control" name="Email">
+                </div>
+
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </form>
+        </div>
+
+    @{
+        var listaPaises = new List<SelectListItem>(){
+            new SelectListItem(){Value="1", Text="Brasil"},    
+            new SelectListItem(){Value="2", Text="USA"},
+            new SelectListItem(){Value="3", Text="Portugal"},
+            new SelectListItem(){Value="4", Text="Japão"},
+        };
+    }
+
+        <div class="col-6">
+            <h4> HTML HELPERS </h4>
+            @using(Html.BeginForm("Index","Cliente",FormMethod.Post))
+            {
+                <div class="form-group">
+                    @Html.Label("Id") :
+                    @Html.TextBox("Id")
+                 </div>
+
+                 <div class="form-group">
+                    @Html.Label("Nome") :
+                    @Html.TextBox("Nome")
+                 </div>
+
+                 <div class="form-group">
+                    @Html.Label("Email") :
+                    @Html.TextBox("Email")
+                 </div>
+
+                 <div class="form-group">
+                    @Html.Label("Senha") :
+                    @Html.Password("Senha")
+                 </div>
+
+                 <div class="form-group">
+                    @Html.Label("Masculino") :
+                    @Html.RadioButton("sexo","Masculino")
+                    @Html.Label("Feminino") :
+                    @Html.RadioButton("sexo","Feminino")
+                 </div>
+
+
+                <div class="form-group">
+                    @Html.Label("Lembrar") :
+                    @Html.CheckBox("Lembrar")
+                 </div>
+
+                 <div class="form-group">
+                    @Html.Label("Pais") :
+                    @Html.DropDownList("Pais",listaPaises)
+                 </div>
+
+                <button type="submit" class="btn btn-primary">Enviar</button>
+                 
+            }
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+             <h4> FORM COM TAG HELPERS </h4>
+            <form asp-controller="Cliente" asp-action="Index" method="POST">
+                     <div class="form-group">
+                    @Html.Label("Id") :
+                    @Html.TextBox("Id")
+                 </div>
+
+                 <div class="form-group">
+                    @Html.Label("Nome") :
+                    @Html.TextBox("Nome")
+                 </div>
+
+                 <div class="form-group">
+                    @Html.Label("Email") :
+                    @Html.TextBox("Email")
+                 </div>
+
+                 <div class="form-group">
+                    @Html.Label("Senha") :
+                    @Html.Password("Senha")
+                 </div>
+
+                 <div class="form-group">
+                    @Html.Label("Masculino") :
+                    @Html.RadioButton("sexo","Masculino")
+                    @Html.Label("Feminino") :
+                    @Html.RadioButton("sexo","Feminino")
+                 </div>
+
+
+                <div class="form-group">
+                    @Html.Label("Lembrar") :
+                    @Html.CheckBox("Lembrar")
+                 </div>
+
+                 <div class="form-group">
+                    @Html.Label("Pais") :
+                    @Html.DropDownList("Pais",listaPaises)
+                 </div>
+
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+@{
+    Html.RenderPartial("_RodapeView");
+}
