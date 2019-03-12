@@ -1,0 +1,11 @@
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\bin\Debug\netcoreapp2.2\ApiCors.deps.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\bin\Debug\netcoreapp2.2\ApiCors.runtimeconfig.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\bin\Debug\netcoreapp2.2\ApiCors.runtimeconfig.dev.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\bin\Debug\netcoreapp2.2\ApiCors.dll
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\obj\Debug\netcoreapp2.2\ApiCors.csprojAssemblyReference.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\obj\Debug\netcoreapp2.2\ApiCors.csproj.CoreCompileInputs.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\obj\Debug\netcoreapp2.2\ApiCors.RazorAssemblyInfo.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\obj\Debug\netcoreapp2.2\ApiCors.RazorAssemblyInfo.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\obj\Debug\netcoreapp2.2\ApiCors.AssemblyInfoInputs.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\obj\Debug\netcoreapp2.2\ApiCors.AssemblyInfo.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ApiCors\ApiCors\obj\Debug\netcoreapp2.2\ApiCors.RazorTargetAssemblyInfo.cache
