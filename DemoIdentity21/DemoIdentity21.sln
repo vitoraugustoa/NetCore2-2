@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoIdentity21", "DemoIdentity21\DemoIdentity21.csproj", "{20B65FAD-4148-4945-B822-747FC39E53CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B65FAD-4148-4945-B822-747FC39E53CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B65FAD-4148-4945-B822-747FC39E53CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B65FAD-4148-4945-B822-747FC39E53CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B65FAD-4148-4945-B822-747FC39E53CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C1038F1-ACB8-4497-AB28-E0C28F04D32F}
+	EndGlobalSection
+EndGlobal
