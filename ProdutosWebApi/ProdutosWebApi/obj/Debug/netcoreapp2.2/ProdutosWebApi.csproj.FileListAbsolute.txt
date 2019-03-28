@@ -1,0 +1,14 @@
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\bin\Debug\netcoreapp2.2\ProdutosWebApi.deps.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\bin\Debug\netcoreapp2.2\ProdutosWebApi.runtimeconfig.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\bin\Debug\netcoreapp2.2\ProdutosWebApi.runtimeconfig.dev.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\bin\Debug\netcoreapp2.2\ProdutosWebApi.dll
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\obj\Debug\netcoreapp2.2\ProdutosWebApi.csprojAssemblyReference.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\obj\Debug\netcoreapp2.2\ProdutosWebApi.csproj.CoreCompileInputs.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\obj\Debug\netcoreapp2.2\ProdutosWebApi.RazorAssemblyInfo.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\obj\Debug\netcoreapp2.2\ProdutosWebApi.RazorAssemblyInfo.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\obj\Debug\netcoreapp2.2\ProdutosWebApi.AssemblyInfoInputs.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\obj\Debug\netcoreapp2.2\ProdutosWebApi.AssemblyInfo.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\obj\Debug\netcoreapp2.2\ProdutosWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\bin\Debug\netcoreapp2.2\ProdutosWebApi.pdb
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\obj\Debug\netcoreapp2.2\ProdutosWebApi.dll
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ProdutosWebApi\ProdutosWebApi\obj\Debug\netcoreapp2.2\ProdutosWebApi.pdb

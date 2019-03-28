@@ -1,0 +1,14 @@
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\bin\Debug\netcoreapp2.2\WebApiBasica.deps.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\bin\Debug\netcoreapp2.2\WebApiBasica.runtimeconfig.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\bin\Debug\netcoreapp2.2\WebApiBasica.runtimeconfig.dev.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\bin\Debug\netcoreapp2.2\WebApiBasica.dll
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\bin\Debug\netcoreapp2.2\WebApiBasica.pdb
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\obj\Debug\netcoreapp2.2\WebApiBasica.csprojAssemblyReference.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\obj\Debug\netcoreapp2.2\WebApiBasica.csproj.CoreCompileInputs.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\obj\Debug\netcoreapp2.2\WebApiBasica.RazorAssemblyInfo.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\obj\Debug\netcoreapp2.2\WebApiBasica.RazorAssemblyInfo.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\obj\Debug\netcoreapp2.2\WebApiBasica.AssemblyInfoInputs.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\obj\Debug\netcoreapp2.2\WebApiBasica.AssemblyInfo.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\obj\Debug\netcoreapp2.2\WebApiBasica.RazorTargetAssemblyInfo.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\obj\Debug\netcoreapp2.2\WebApiBasica.dll
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiBasica\WebApiBasica\obj\Debug\netcoreapp2.2\WebApiBasica.pdb
