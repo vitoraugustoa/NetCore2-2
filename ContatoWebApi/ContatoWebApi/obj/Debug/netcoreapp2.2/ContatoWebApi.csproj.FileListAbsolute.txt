@@ -28,3 +28,4 @@ C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ContatoWebApi\Co
 C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ContatoWebApi\ContatoWebApi\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Update.g.cshtml.cs
 C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ContatoWebApi\ContatoWebApi\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Delete.g.cshtml.cs
 C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ContatoWebApi\ContatoWebApi\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Details.g.cshtml.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\ContatoWebApi\ContatoWebApi\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
