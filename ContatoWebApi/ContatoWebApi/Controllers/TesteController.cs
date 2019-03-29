@@ -90,9 +90,7 @@ namespace ContatoWebApi.Controllers
 
                 // Redireciona para a Action "Index"
                 return RedirectToAction(nameof(Index));
-
             }
-
         }
 
         [HttpGet]
@@ -125,7 +123,6 @@ namespace ContatoWebApi.Controllers
 
                 return View(nameof(Index));
             }
-            
         }
 
         [HttpPost]
