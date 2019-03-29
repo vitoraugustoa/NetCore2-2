@@ -31,7 +31,7 @@ namespace ContatoWebApi.Controllers
 
         // GET: api/Contatos/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<Contato>> GetContato(int id)
+        public async Task<ActionResult<Contato>> GetContato([FromRoute] int id)
         {
             var contato = await _context.Contatos.FindAsync(id);
 
@@ -45,7 +45,7 @@ namespace ContatoWebApi.Controllers
 
         // PUT: api/Contatos/5
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutContato(int id,[FromBody] Contato contato)
+        public async Task<IActionResult> PutContato([FromRoute] int id,[FromBody] Contato contato)
         {
             if (id != contato.Id)
             {
@@ -75,7 +75,7 @@ namespace ContatoWebApi.Controllers
 
         // POST: api/Contatos
         [HttpPost]
-        public async Task<ActionResult<Contato>> PostContato(Contato contato)
+        public async Task<ActionResult<Contato>> PostContato([FromBody] Contato contato)
         {
             if (!ModelState.IsValid)
             {
