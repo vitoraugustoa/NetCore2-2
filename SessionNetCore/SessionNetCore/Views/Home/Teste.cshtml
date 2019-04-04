@@ -1,0 +1,13 @@
+﻿@model SessionNetCore.Models.User
+
+@{
+    ViewData["Title"] = "Teste";
+}
+
+<h1>Variavel de Sessão com objeto</h1>
+<h2>Usuário Logado</h2>
+
+@* Mostrando os dados do usuário guardados em sessão *@
+
+<p><strong>ID: </strong>@Model.Id</p>
+<p><strong>Nome: </strong>@Model.Nome</p>
