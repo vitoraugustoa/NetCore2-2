@@ -1,0 +1,14 @@
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\bin\Debug\netcoreapp2.2\WebApiAngular.deps.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\bin\Debug\netcoreapp2.2\WebApiAngular.runtimeconfig.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\bin\Debug\netcoreapp2.2\WebApiAngular.runtimeconfig.dev.json
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\bin\Debug\netcoreapp2.2\WebApiAngular.dll
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\obj\Debug\netcoreapp2.2\WebApiAngular.csprojAssemblyReference.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\obj\Debug\netcoreapp2.2\WebApiAngular.csproj.CoreCompileInputs.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\obj\Debug\netcoreapp2.2\WebApiAngular.RazorAssemblyInfo.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\obj\Debug\netcoreapp2.2\WebApiAngular.RazorAssemblyInfo.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\obj\Debug\netcoreapp2.2\WebApiAngular.AssemblyInfoInputs.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\obj\Debug\netcoreapp2.2\WebApiAngular.AssemblyInfo.cs
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\obj\Debug\netcoreapp2.2\WebApiAngular.RazorTargetAssemblyInfo.cache
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\bin\Debug\netcoreapp2.2\WebApiAngular.pdb
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\obj\Debug\netcoreapp2.2\WebApiAngular.dll
+C:\Users\vitor.lopes\OneDrive\Estudo\RepositoriosGit\NetCore2-2\WebApiAngular\WebApiAngular\obj\Debug\netcoreapp2.2\WebApiAngular.pdb
