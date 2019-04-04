@@ -33,6 +33,8 @@ namespace SessionNetCore
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
+            services.AddSingleton<IHttpContextAccessor , HttpContextAccessor>(); //  O objeto injetado é criado na primeira vez que são solicitados.
+
             services.AddSession(options =>
             {
                 options.Cookie.HttpOnly = true; //HttpOnly : define se o cookie é acessível por meio do JavaScript. O padrão é true, o que significa que 
