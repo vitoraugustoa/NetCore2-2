@@ -42,6 +42,7 @@ namespace SessionNetCore
                 options.Cookie.Name = ".Fiver.Session"; // Name : usado para substituir o nome do cookie padrão.
                 options.Cookie.SecurePolicy = CookieSecurePolicy.Always; // SecurePolicy : determina se o cookie de sessão é transmitido somente por meio de solicitações HTTPS.
                 options.IdleTimeout = TimeSpan.FromMinutes(10); // IdleTimeout : define o tempo de expiração da sessão, cada solicitação redefine o tempo limite. O padrão é 20 minutos.
+                options.Cookie.IsEssential = true; //  Torne o cookie da sessão essencial
             });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
