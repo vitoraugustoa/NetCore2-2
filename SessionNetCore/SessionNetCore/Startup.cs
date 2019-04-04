@@ -33,9 +33,13 @@ namespace SessionNetCore
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            // Adicionando o serviço de session e setando que Cookie não vai pedir concentimento do usuário para funcionar.
-            services.AddSession(options => {
-                options.Cookie.IsEssential = false;
+            services.AddSession(options =>
+            {
+                options.Cookie.HttpOnly = true; //HttpOnly : define se o cookie é acessível por meio do JavaScript. O padrão é true, o que significa que 
+                // não pode ser acessado via scripts no lado do cliente.
+                options.Cookie.Name = ".Fiver.Session"; // Name : usado para substituir o nome do cookie padrão.
+                options.Cookie.SecurePolicy = CookieSecurePolicy.Always; // SecurePolicy : determina se o cookie de sessão é transmitido somente por meio de solicitações HTTPS.
+                options.IdleTimeout = TimeSpan.FromMinutes(10); // IdleTimeout : define o tempo de expiração da sessão, cada solicitação redefine o tempo limite. O padrão é 20 minutos.
             });
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
