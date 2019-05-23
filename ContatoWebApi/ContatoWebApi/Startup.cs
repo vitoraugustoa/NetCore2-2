@@ -35,6 +35,7 @@ namespace ContatoWebApi
             services.AddDbContext<ContatoDbContext>(options =>
                 options.UseMySql(Configuration.GetConnectionString("ConexaoMySql")));
 
+            // SWAGGER
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1" , new OpenApiInfo { Title = "ContatosWebApi" , Version = "v1" , Description = "Web Api .net core"});
