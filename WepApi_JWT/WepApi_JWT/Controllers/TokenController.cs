@@ -39,6 +39,8 @@ namespace WepApi_JWT.Controllers
             SymmetricSecurityKey symmetricSecurity = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("senhasupersecretaparaauth"));
             SigningCredentials signingCredentials = new SigningCredentials(symmetricSecurity , SecurityAlgorithms.HmacSha256);
             JwtHeader jwtHeader = new JwtHeader(signingCredentials);
+            // Payload passar os dados do usuário que quero que sejam retornados
+            // Juntamente com o JWT
             JwtPayload jwtPayload = new JwtPayload(claims);
             JwtSecurityToken token = new JwtSecurityToken(jwtHeader , jwtPayload);
 
