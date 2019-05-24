@@ -57,6 +57,19 @@ namespace WepApi_JWT
                     ClockSkew = TimeSpan.FromMinutes(5)
                 };
             });
+            
+            // Posso tambem
+            // Ativar o uso do token como forma de autorizar o acesso
+            // a recursos deste projeto
+            // CASO não ative, a forma de autorização que usaria nos endpoints
+            // Seria somente [Authorize(AddAuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)
+            // Se Ativar da forma abaixo ficarai [Authorize("Bearer")]
+            services.AddAuthorization(auth =>
+            {
+                auth.AddPolicy("Bearer", new AuthorizationPolicyBuilder()
+                    .AddAuthenticationSchemes(JwtBearerDefaults.AuthenticationScheme)
+                    .RequireAuthenticatedUser().Build());
+            });
 
         }
 
